@@ -2,6 +2,7 @@ package mc.sn.day4;
 
 public class LottoBall {
 	// 데이터 클래스
+	
 	private String ballNumber;
 	private boolean isSelectedBall;
 	
