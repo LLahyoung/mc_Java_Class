@@ -1,4 +1,4 @@
-package mc.sn.practice;
+package mc.sn.day3;
 
 public class MainClass {
 
