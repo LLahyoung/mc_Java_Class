@@ -12,6 +12,7 @@ public class LottoBall {
 		this.ballNumber = ballNumber;
 	}
 	public String getBallNumber() {
+		
 		return this.ballNumber;
 	}
 	
