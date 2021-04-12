@@ -10,6 +10,7 @@ public class LottoBall {
 	// 생성자도 만드시오.
 	public LottoBall(String ballNumber) {
 		this.ballNumber = ballNumber;
+		
 	}
 	public String getBallNumber() {
 		
